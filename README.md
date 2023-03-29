@@ -32,9 +32,10 @@ Whiting School of Engineering
 <h5>by Johns Hopkins University</h5>
 <h5>Taught by: Yaakov Chaikin</h5>
 <p>Finished the course on March 29, 2023</p>
-<br>
-<img src="https://drive.google.com/file/d/11rXFmCioJXDyBhOWdR0n4kDwhmJWIJiA/view?usp=sharing">
-![alt text](https://drive.google.com/file/d/11rXFmCioJXDyBhOWdR0n4kDwhmJWIJiA/view?usp=sharing)
+ 
+![](cert.jpg)
+
+
   
 </div>
   
