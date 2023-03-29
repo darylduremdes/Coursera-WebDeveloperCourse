@@ -18,9 +18,32 @@ Whiting School of Engineering
 
 <div>
 <br><br>
-<h3>Answers on Weekly Assignments</h3>
-<a href="https://github.com/darylduremdes/module2-solution" target="_blank">module2-solution<a>
-<a href="https://github.com/darylduremdes/module3-solution" target="_blank">module3-solution<a>
-<a href="https://github.com/darylduremdes/module4-solution" target="_blank">module4-solution<a>
-<a href="https://github.com/darylduremdes/module5-solution" target="_blank">module5-solution<a>
+<h4>Answers on Weekly Assignments</h4>
+<p><a href="https://github.com/darylduremdes/module2-solution" target="_blank">module2-solution<a></p>
+<p><a href="https://github.com/darylduremdes/module3-solution" target="_blank">module3-solution<a></p>
+<p><a href="https://github.com/darylduremdes/module4-solution" target="_blank">module4-solution<a></p>
+<p><a href="https://github.com/darylduremdes/module5-solution" target="_blank">module5-solution<a></p>
 </div>
+
+<div>
+<br><br>
+ 
+<h5>HTML, CSS, and Javascript for Web Developers</h5>
+<h5>by Johns Hopkins University</h5>
+<h5>Taught by: Yaakov Chaikin</h5>
+<p>Finished the course on March 29, 2023</p>
+<br>
+<img src="https://drive.google.com/file/d/11rXFmCioJXDyBhOWdR0n4kDwhmJWIJiA/view?usp=sharing">
+![alt text](https://drive.google.com/file/d/11rXFmCioJXDyBhOWdR0n4kDwhmJWIJiA/view?usp=sharing)
+  
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
