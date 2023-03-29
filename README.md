@@ -9,15 +9,16 @@
 
 <p>In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.</p>
 
-
-<br><br>
 Taught by:Yaakov Chaikin, Adjunct Professor, Graduate Computer Science
 Whiting School of Engineering
-
 </div>
 
-<div>
-<br><br>
+<div> <br>
+<p>Website:</p>
+<p><a href="https://www.davidchuschinabistro.com/#/">DAVID CHU'S CHINA BISTRO</a></p>
+
+
+
 <h4>Answers on Weekly Assignments</h4>
 <p><a href="https://github.com/darylduremdes/module2-solution" target="_blank">module2-solution<a></p>
 <p><a href="https://github.com/darylduremdes/module3-solution" target="_blank">module3-solution<a></p>
